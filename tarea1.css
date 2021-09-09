@@ -1,0 +1,51 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    border-style: double;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    width: 1000;
+
+}
+header{
+    margin-top: 30px;
+   
+}
+
+.titulo{   
+   margin: 0px;
+}
+nav{
+    border-top: 5px black solid;
+    border-bottom: 2px black solid;
+    width: 600;
+    display: inline-block;
+}
+li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    background-color: white;
+    color: red
+}
+.link:hover{
+    color: rgb(68, 28, 28);
+    background-color: white;
+}
+section{
+    display: inline-block;
+    width: 600px;
+    margin: 20px;
+    text-align: center;
+    
+}
+img{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    display: inline-block;
+    padding: 0px;
+}
